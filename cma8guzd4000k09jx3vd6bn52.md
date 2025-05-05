@@ -5,7 +5,7 @@ seoDescription: "Learn what IAM (Identity and Access Management) in AWS is and h
 datePublished: Sat May 03 2025 16:58:02 GMT+0000 (Coordinated Universal Time)
 cuid: cma8guzd4000k09jx3vd6bn52
 slug: unlocking-aws-iam-who-gets-in-what-they-can-do-and-why-it-matters
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1746290469425/879e3120-46b1-4c3f-8025-21a83173e232.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1746458984656/5519f209-c5c1-45c8-93df-c0bac73b1f89.png
 tags: aws, aws-certified-solutions-architect-associate, aws-iam, aws-iam-policies, aws-policy-simulator, aws-iam-identity-center, aws-iam-role, aws-iam-user, aws-iam-group, aws-access-anayzer
 
 ---
