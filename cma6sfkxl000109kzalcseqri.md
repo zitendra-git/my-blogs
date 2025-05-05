@@ -5,7 +5,7 @@ seoDescription: "Confused about VPC in AWS? This beginner-friendly guide breaks 
 datePublished: Fri May 02 2025 12:46:26 GMT+0000 (Coordinated Universal Time)
 cuid: cma6sfkxl000109kzalcseqri
 slug: what-is-vpc-in-aws-a-beginner-friendly-guide-to-virtual-private-cloud
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1746189818008/da6a3de7-d621-4458-9e1c-413d35085c37.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1746459944701/5ae4ddcf-be7a-4bab-ab25-68e458b1ff10.png
 tags: cloud, aws, aws-vpc, aws-vpc-introduction, aws-vpc-beginners
 
 ---
