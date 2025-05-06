@@ -1,6 +1,6 @@
 ---
 title: "🌐 Understanding DNS, Load Balancing, and CloudFront on AWS – Made Simple!"
-seoTitle: "DNS, Load Balancing, and CloudFront on AWS: A Beginner’s Guide "
+seoTitle: "DNS, Load Balancing, and CloudFront on AWS: A Beginner’s Guide"
 seoDescription: "Learn the basics of DNS, load balancing, Amazon Route 53, ELB, and CloudFront in AWS. This beginner-friendly guide explains how to build fast, scalable."
 datePublished: Tue May 06 2025 17:10:53 GMT+0000 (Coordinated Universal Time)
 cuid: cmacrn2ob000209ie8e8yglgs
@@ -36,6 +36,8 @@ When you enter a website in your browser:
     
 
 It’s like asking around for directions until someone finally knows the way!
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1746553136619/cc62a1e4-8405-4e86-b3d0-46936e58f092.png align="center")
 
 ## **🌍 Meet Amazon Route 53 – DNS for the Cloud Age**
 
