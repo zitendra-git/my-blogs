@@ -1,6 +1,6 @@
 ---
 title: "🧭 Ultimate Guide to AWS Migration: Transfer Data, Applications & Databases Like a Pro"
-seoTitle: "Mastering AWS Data Migration: A Complete Guide for Beginners "
+seoTitle: "Mastering AWS Data Migration: A Complete Guide for Beginners"
 seoDescription: "Learn how to migrate data, apps, and databases to AWS using tools like DataSync, MGN, and DMS. Step-by-step, real-world guide from beginner to expert."
 datePublished: Thu May 08 2025 15:46:05 GMT+0000 (Coordinated Universal Time)
 cuid: cmafjhpjq000709l7b3n0eper
