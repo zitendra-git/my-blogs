@@ -14,7 +14,7 @@ If you’re stepping into the world of Linux, understanding its **file system hi
 
 ## **🔍 What Is the Linux File System?**
 
-The **Linux file system** is the structure where data is stored, organized, and accessed. Unlike Windows (which uses drive letters like C:, D:), Linux uses a **tree-like structure** starting at a single root directory: /.
+The **Linux file system** is the structure where data is stored, organized, and accessed. Unlike Windows (which uses drive letters like C:, D:), Linux uses a **tree-like structure** starting at a single root directory: `/` .
 
 ### **🧾 Basic Terms to Know:**
 
@@ -22,14 +22,14 @@ The **Linux file system** is the structure where data is stored, organized, and 
     
 * **File**: A data container (text, binary, config, etc.)
     
-* **Root (/)**: The topmost directory in the hierarchy.
+* **Root (**`/` **)**: The topmost directory in the hierarchy.
     
 * **Symlink (Symbolic Link)**: A shortcut or reference to another file/directory.
     
 
 ## **🌲 The File System Tree Overview**
 
-Everything starts from / (root). All files and folders branch out from here.
+Everything starts from `/` (root). All files and folders branch out from here.
 
 ```bash
 /
@@ -54,7 +54,7 @@ Everything starts from / (root). All files and folders branch out from here.
 └── var
 ```
 
-🔁 Notice: Some directories like /lib, /sbin, and /bin are now **symlinks** pointing to /usr/lib, /usr/sbin, and /usr/bin on modern Linux systems.
+🔁 Notice: Some directories like `/lib` , `/sbin` , and `/bin` are now **symlinks** pointing to `/usr/lib` , `/usr/sbin` , and `/usr/bin` on modern Linux systems.
 
 # **🧰 In-Depth Directory Breakdown**
 
@@ -64,25 +64,25 @@ Let’s explore each directory in detail with examples, real-world use, and shor
 
 * **Purpose**: Contains basic executable programs and command-line tools required by all users.
     
-* **Examples**: ls, cp, mv, rm, cat
+* **Examples**: `ls` , `cp` , `mv` , `rm` , `cat`
     
 * **Access**: Available to all users.
     
 * **Important**: Needed during system recovery.
     
 
-🔁 On newer distros, /bin is a symlink to /usr/bin.
+🔁 On newer distros, `/bin` is a symlink to `/usr/bin` .
 
 ## **⚙️** `/sbin` **– System Binaries**
 
 * **Purpose**: Holds system-level utilities mainly used by the **root (admin)** user.
     
-* **Examples**: fsck, reboot, shutdown, ifconfig
+* **Examples**: `fsck` , `reboot` , `shutdown` , `ifconfig`
     
 * **Access**: Restricted to root for system maintenance.
     
 
-🔁 Typically symlinked to /usr/sbin.
+🔁 Typically symlinked to `/usr/sbin` .
 
 ## **🧠** `/boot` **– Boot Loader Files**
 
@@ -132,7 +132,7 @@ Let’s explore each directory in detail with examples, real-world use, and shor
     * `/etc/fstab` : Filesystem mount table
         
 
-🧠 Most services (like networking, cron jobs, etc.) read their settings from /etc.
+🧠 Most services (like networking, cron jobs, etc.) read their settings from `/etc` .
 
 ## **🏠** `/home`  **– User Home Directories**
 
